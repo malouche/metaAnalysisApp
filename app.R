@@ -34,7 +34,7 @@ ui <- fluidPage(
     "))
   ),
 
-  titlePanel(div("Forest Plot", id = "title")),
+  titlePanel(div("Forest Plot Meta-Analysis", id = "title")),
 
   # Layout with floating sidebar and fullscreen main panel
   div(class = "sidebar",

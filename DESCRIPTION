@@ -1,0 +1,7 @@
+Package: metaAnalysisApp
+Title: Forest Plot Meta-Analysis Shiny App
+Version: 0.1.0
+Description: A Shiny app for creating forest and drapery plots in meta-analysis.
+Author: Dhafer Malouche
+License: MIT
+Depends: R (>= 3.5), shiny, meta
